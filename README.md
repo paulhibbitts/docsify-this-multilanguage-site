@@ -39,7 +39,7 @@ Using the ability to change the default values of the Docsify-This Web Page Buil
 To add or change languages supported, each language requires the following:
 * Default language Markdown files within the `docs` folder 
 * Each possible language supported has a subfolder within the  `docs` folder
-* If an `images` folder is used, the for each language supported the same (localized) images need to be present
+* If an `images` folder is used, then for each language supported the same (localized) images need to be present
 * The Docsify custom sidebar and navbar for each language need to be updated to point to the appropriate Markdown files for that language 
 
 Docsify-This Examples
