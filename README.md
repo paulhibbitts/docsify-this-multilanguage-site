@@ -36,6 +36,12 @@ The optional loading of a Docsify custom **Sidebar** and **Navbar** (equivalent 
 
 Using the ability to change the default values of the Docsify-This Web Page Builder, here are the needed **Sidebar** and **Navbar** options already set - just replace the default Markdown file URL for **home.md** with your own! https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&loadSidebar=true&loadNavbar=true
 
+To add or change languages supported, each language requires the following:
+* Default language Markdown files within the `docs` folder 
+* Each possible language supported has a subfolder within the  `docs` folder
+* If an `images` folder is used, the for each language supported the same (localized) images need to be present
+* The Docsify custom sidebar and navbar for each language need to be updated to point to the appropriate Markdown files for that language 
+
 Docsify-This Examples
 ---
 
