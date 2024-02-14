@@ -22,19 +22,13 @@ How to Use
 
 4. Go to https://docsify-this.net and paste the copied URL into the **Markdown File URL** field
 
-5. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
+5. Choose the Page Layout with the Docsify Sidebar
 
-You can further customize the appearance of your web page by tapping on the **Show More Page Options »** link in the Docsfy-This Web Page Builder.
+5. Tap the **Show More Page Appearance Options »** link
 
-To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar), manually add `&loadSidebar=_sidebar.md` to your published Docsify-This URL, for example:
-https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md
+6. Choose to display the Docsify Custom Files **Sidebar** and **Navbar**
 
-To load the provided example [Docsify custom sidebar](https://docsify.js.org/#/more-pages?id=sidebar) along with the [Docsify custom navbar](https://docsify.js.org/#/custom-navbar?id=custom-navbar), manually add `&loadSidebar=_sidebar.md&loadNavbar=_navbar.md` to your published Docsify-This URL, for example:
-https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md
-
-The optional loading of a Docsify custom **Sidebar** and **Navbar** (equivalent to using the URL parameters `loadSidebar` and `loadNavbar`) is also available in the [Docsify-This Advanced Web Page Builder](https://docsify-this.net/?advanced=true).  
-
-Using the ability to change the default values of the Docsify-This Web Page Builder, here are the needed **Sidebar** and **Navbar** options already set - just replace the default Markdown file URL for **home.md** with your own! https://docsify-this.net/?advanced=true&url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site/blob/main/home.md&sidebar=true&loadSidebar=true&loadNavbar=true
+7. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
 
 To add or change languages supported, each language requires the following:
 * Default language Markdown files within the `docs` folder 
