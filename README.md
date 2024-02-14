@@ -26,7 +26,9 @@ How to Use
 
 5. Tap the **Show More Page Appearance Options »** link
 
-6. Choose to display the Docsify Custom Files **Sidebar** and **Navbar**
+6. Scroll down the page and tap the **Advanced Web Page Builder Options** checkbox
+
+7. Scroll down the page and choose to display the Docsify Custom Files **Sidebar** and **Navbar**
 
 7. Tap the **View as Standalone Page** button to view your **home.md** Markdown file as a web page 
 
