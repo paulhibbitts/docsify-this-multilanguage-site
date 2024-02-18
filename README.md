@@ -22,7 +22,7 @@ How to Use
 
 3. View the **home.md** Markdown file in your newly created repository and copy it's URL
 
-4. Go to the [Docsify-This.net Advanced Web Page Builder](https://paulhibbitts.github.io/test-docsify-this/?advanced=true) and paste the copied URL into the **Markdown File URL** field
+4. Go to https://paulhibbitts.github.io/test-docsify-this/?advanced=true (the Docsify-This Advanced Web Page Builder) and paste the copied URL into the **Markdown File URL** field
 
 5. Choose the Page Layout with the Docsify Sidebar
 
